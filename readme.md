@@ -1,6 +1,7 @@
 # Roll20 Audio Track Deleter
 
 This is a Python script that deletes all audio tracks from a Roll20 account.
+Why do you want to do that?. In my case, because I had uploaded too much music and it was hard to manage, or maybe because you want to migrate from the paid plan to the free plan and you can't because your audio library is just too big.
 
 ## Requirements
 
